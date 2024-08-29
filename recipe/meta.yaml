@@ -30,6 +30,8 @@ test:
     - pip check
   imports:
     - fire
+  requires:
+    - pip
 
 about:
   home: https://github.com/google/python-fire
